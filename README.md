@@ -1,6 +1,6 @@
 # 🌐 Blue Rock Capital – Next.js Website
 
-![Blue Rock Capital](./public/blue-rock-capital.jpg)
+![Blue Rock Capital](/public/blue-rock-capital.jpg)
 
 A modern **Next.js 14** based website for **Blue Rock Capital** built with Next, Tailwind CSS and an extensive set of Radix UI components.  
 All dependencies and tools used in this project are listed below.
